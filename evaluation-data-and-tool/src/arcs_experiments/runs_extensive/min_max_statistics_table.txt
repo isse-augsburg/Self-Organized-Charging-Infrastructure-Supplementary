@@ -1,0 +1,30 @@
+\begin{table*}[htbp]
+\centering
+\caption{Mean and population standard deviation of the minimum, mean, and
+maximum individual completion times across transitions. All values are in seconds.
+Simulation statistics use 50 transitions per layout; the initial home takeoff
+and final home landing are excluded from the circle, grid, and random layouts.
+Real-world statistics use three transitions per layout.}
+\label{tab:min-max-transition-times}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrrrrrrrrr}
+\toprule
+& & \multicolumn{6}{c}{Takeoff} & \multicolumn{6}{c}{Landing} \\
+\cmidrule(lr){3-8}\cmidrule(lr){9-14}
+Environment & Layout
+& Avg. min & Std. min & Avg. mean & Std. mean & Avg. max & Std. max
+& Avg. min & Std. min & Avg. mean & Std. mean & Avg. max & Std. max \\
+\midrule
+Simulation & Circle & 2.69 & 0.06 & 4.36 & 0.24 & 6.94 & 0.73 & 9.78 & 0.56 & 12.18 & 0.60 & 14.73 & 1.21 \\
+Simulation & Grid & 2.80 & 0.16 & 6.55 & 0.38 & 12.80 & 1.17 & 9.76 & 0.61 & 14.62 & 0.46 & 21.68 & 1.00 \\
+Simulation & Random & 2.67 & 0.05 & 5.63 & 1.39 & 11.33 & 3.06 & 8.16 & 1.07 & 13.52 & 1.43 & 20.86 & 3.33 \\
+Simulation & Home & 2.69 & 0.05 & 12.96 & 0.12 & 22.19 & 0.18 & 12.93 & 3.35 & 45.81 & 5.13 & 77.64 & 7.37 \\
+\midrule
+Real & Circle & 2.62 & 0.02 & 4.02 & 0.26 & 6.12 & 0.73 & 5.57 & 0.21 & 8.14 & 0.26 & 11.87 & 0.71 \\
+Real & Grid & 2.62 & 0.00 & 5.91 & 0.05 & 11.42 & 1.17 & 5.84 & 0.10 & 9.70 & 0.53 & 16.65 & 1.21 \\
+Real & Random & 2.64 & 0.01 & 4.59 & 0.44 & 9.08 & 1.50 & 5.85 & 0.29 & 8.84 & 0.35 & 15.77 & 0.83 \\
+Real & Home & 2.64 & 0.03 & 13.05 & 0.05 & 22.06 & 0.26 & 8.36 & 1.11 & 32.36 & 2.09 & 54.76 & 2.82 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

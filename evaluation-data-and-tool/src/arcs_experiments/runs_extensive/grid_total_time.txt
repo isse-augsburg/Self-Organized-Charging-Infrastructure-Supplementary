@@ -1,0 +1,2 @@
+Takeoffs: n=50, avg=13.69 seconds, stddev=1.19 seconds, median=13.84 seconds, min=11.22 seconds, max=16.69 seconds
+Landings: n=51, avg=22.19 seconds, stddev=1.01 seconds, median=22.13 seconds, min=19.80 seconds, max=24.31 seconds

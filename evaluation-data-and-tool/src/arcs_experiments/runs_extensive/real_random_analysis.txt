@@ -1,0 +1,8 @@
+Takeoffs:
+10 padflies, avg: 4.78 seconds, stddev: 2.54 seconds, median: 3.62 seconds, min: 2.62 seconds, max: 10.05 seconds
+10 padflies, avg: 5.01 seconds, stddev: 2.67 seconds, median: 3.60 seconds, min: 2.64 seconds, max: 10.24 seconds
+10 padflies, avg: 3.98 seconds, stddev: 1.43 seconds, median: 3.65 seconds, min: 2.65 seconds, max: 6.96 seconds
+Landings:
+10 padflies, avg: 8.35 seconds, stddev: 2.88 seconds, median: 7.43 seconds, min: 5.61 seconds, max: 14.82 seconds
+10 padflies, avg: 9.12 seconds, stddev: 3.61 seconds, median: 7.75 seconds, min: 5.68 seconds, max: 16.85 seconds
+10 padflies, avg: 9.06 seconds, stddev: 2.98 seconds, median: 8.22 seconds, min: 6.26 seconds, max: 15.65 seconds

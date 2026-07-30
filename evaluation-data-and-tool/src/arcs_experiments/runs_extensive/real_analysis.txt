@@ -1,0 +1,10 @@
+Individual command time:
+  Circle: takeoffs 4.02 s (stddev 0.26, n=3), landings 8.14 s (stddev 0.26, n=3)
+  Grid: takeoffs 5.91 s (stddev 0.05, n=3), landings 9.70 s (stddev 0.53, n=3)
+  Random: takeoffs 4.59 s (stddev 0.44, n=3), landings 8.85 s (stddev 0.35, n=3)
+  Home: takeoffs 13.05 s (stddev 0.05, n=3), landings 32.36 s (stddev 2.10, n=3)
+Total transition time:
+  Circle: takeoffs 6.87 s (stddev 0.78, n=3), landings 12.10 s (stddev 0.70, n=3)
+  Grid: takeoffs 12.30 s (stddev 1.21, n=3), landings 16.83 s (stddev 1.21, n=3)
+  Random: takeoffs 9.75 s (stddev 1.21, n=3), landings 16.00 s (stddev 0.83, n=3)
+  Home: takeoffs 22.61 s (stddev 0.14, n=3), landings 54.99 s (stddev 2.80, n=3)
