@@ -5,7 +5,7 @@ This repository provides supplementary materials for the journal article:
 
 ## Repository Structure
 
-- [`evaluation-daa-and-tools/`](./evaluation-daa-and-tools/) — recorded datasets and evaluation tools used for empirical experiments.
+- [`evaluation-data-and-tools/`](./evaluation-data-and-tool) — recorded datasets and evaluation tools used for empirical experiments.
 
 ## Supplementary Content
 
