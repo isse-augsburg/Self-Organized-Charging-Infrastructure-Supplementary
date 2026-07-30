@@ -27,9 +27,67 @@ This work extends the conference publication:
 
 ## Video Playlists
 
-- Journal supplementary playlist: [YouTube Playlist](https://youtube.com/playlist?list=PLTqu4AnfHYEk&si=l8kbM48iMzfFk3pc)
-- Conference-related playlist: [YouTube Playlist](https://youtube.com/playlist?list=PLOioj0ziLeDDyD_kOcpZU2IVh8Bllm1Cb&si=F4w9WQHGvMFKQOS6)
+### Journal supplementary playlist
+- [Open full playlist on YouTube](https://youtube.com/playlist?list=PLTqu4AnfHYEk&si=l8kbM48iMzfFk3pc)
 
+[![Self-organized Charging Infrastructure - Empirical-Evaluation Real-World Circle](https://img.youtube.com/vi/ji7Fo4ebN7w/hqdefault.jpg)](https://www.youtube.com/watch?v=ji7Fo4ebN7w)
+
+*Self-organized Charging Infrastructure - Empirical-Evaluation Real-World Circle*
+
+[![Self-organized Charging Infrastructure - Empirical-Evaluation Real-World Random](https://img.youtube.com/vi/Ca74MPXgH4Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Ca74MPXgH4Q)
+
+*Self-organized Charging Infrastructure - Empirical-Evaluation Real-World Random*
+
+[![Self-organized Charging Infrastructure - Empirical-Evaluation Real-World Grid](https://img.youtube.com/vi/jJntfZgJc9I/hqdefault.jpg)](https://www.youtube.com/watch?v=jJntfZgJc9I)
+
+*Self-organized Charging Infrastructure - Empirical-Evaluation Real-World Grid*
+
+[![Self-organized Charging Infrastructure - Empirical-Evaluation Simulation Circle](https://img.youtube.com/vi/NbUqfcQx9ic/hqdefault.jpg)](https://www.youtube.com/watch?v=NbUqfcQx9ic)
+
+*Self-organized Charging Infrastructure - Empirical-Evaluation Simulation Circle*
+
+[![Self-organized Charging Infrastructure - Empirical-Evaluation Simulation Grid](https://img.youtube.com/vi/QDPNiqBve_0/hqdefault.jpg)](https://www.youtube.com/watch?v=QDPNiqBve_0)
+
+*Self-organized Charging Infrastructure - Empirical-Evaluation Simulation Grid*
+
+[![Self-organized Charging Infrastructure - Empirical-Evaluation Simulation Random](https://img.youtube.com/vi/B1ZZPfJIB0U/hqdefault.jpg)](https://www.youtube.com/watch?v=B1ZZPfJIB0U)
+
+*Self-organized Charging Infrastructure - Empirical-Evaluation Simulation Random*
+
+### Conference-related playlist
+- [Open full playlist on YouTube](https://youtube.com/playlist?list=PLOioj0ziLeDDyD_kOcpZU2IVh8Bllm1Cb&si=F4w9WQHGvMFKQOS6)
+
+[![Clusterlock](https://img.youtube.com/vi/NXVhoCABBJs/hqdefault.jpg)](https://www.youtube.com/watch?v=NXVhoCABBJs)
+
+*Clusterlock*
+
+[![Adding a Pad](https://img.youtube.com/vi/i7t93rcSG9c/hqdefault.jpg)](https://www.youtube.com/watch?v=i7t93rcSG9c)
+
+*Adding a Pad*
+
+[![Landing](https://img.youtube.com/vi/oNQRA_GVrfM/hqdefault.jpg)](https://www.youtube.com/watch?v=oNQRA_GVrfM)
+
+*Landing*
+
+[![Landing without smartpad](https://img.youtube.com/vi/FpVXEE90mUc/hqdefault.jpg)](https://www.youtube.com/watch?v=FpVXEE90mUc)
+
+*Landing without smartpad*
+
+[![Pad Malfunction](https://img.youtube.com/vi/MrmXvDBwvM8/hqdefault.jpg)](https://www.youtube.com/watch?v=MrmXvDBwvM8)
+
+*Pad Malfunction*
+
+[![Moving a pad](https://img.youtube.com/vi/sNNT7t-K3-Q/hqdefault.jpg)](https://www.youtube.com/watch?v=sNNT7t-K3-Q)
+
+*Moving a pad*
+
+[![Takeoff](https://img.youtube.com/vi/mDM0RvU3sNI/hqdefault.jpg)](https://www.youtube.com/watch?v=mDM0RvU3sNI)
+
+*Takeoff*
+
+[![Setup and Identification](https://img.youtube.com/vi/IGP2caG8uFo/hqdefault.jpg)](https://www.youtube.com/watch?v=IGP2caG8uFo)
+
+*Setup and Identification*
 
 ## Citation
 
